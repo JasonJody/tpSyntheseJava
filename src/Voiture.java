@@ -8,6 +8,20 @@ class Voiture extends Vehicule {
         this.nombrePortes = nombrePortes;
     }
 
+    @Override
+    public String toString() {
+        return null;
+    }
+
     // Getter et setter
     //TODO 5
+
+
+    public int getNombrePortes() {
+        return nombrePortes;
+    }
+
+    public void setNombrePortes(int nombrePortes) {
+        this.nombrePortes = nombrePortes;
+    }
 }
