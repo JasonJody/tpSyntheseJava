@@ -1,5 +1,7 @@
 //https://github.com/JasonJody/tpSyntheseJava.git
 // Classe principale
+//Comme le proverbe "Work smart not hard" le dit, j'ai utils chatgpt pour la javaDoc,
+//alors si une autre personne a la même chose que moi, c'est totalement normal :)
 public class Main {
     public static void main(String[] args) {
         // TODO 1

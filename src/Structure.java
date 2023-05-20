@@ -9,11 +9,23 @@ class Structure {
     }
 
     // Méthode pour vérifier si la liste est vide
+
+    /**
+     * Vérifie si la liste est vide.
+     *
+     * @return true si la liste est vide, false sinon.
+     */
     public boolean estVide() {
         return tete == null;
     }
 
     // Méthode pour ajouter un élément à la fin de la liste
+
+    /**
+     * Ajoute un élément à la fin de la liste.
+     *
+     * @param valeur La valeur de l'élément à ajouter.
+     */
     public void ajouter(int valeur) {
         Noeud nouveauNoeud = new Noeud(valeur);
 
