@@ -11,7 +11,7 @@ class  Chien extends Animal {
 
     @Override
     public void faireDuBruit() {
-        System.out.println("OUAF OUAF");
+        System.out.println("Wouf Wouf.");
     }
 
     public String getRace() {
@@ -24,6 +24,6 @@ class  Chien extends Animal {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Chien [race="+race+", " + super.toString() + "]";
     }
 }

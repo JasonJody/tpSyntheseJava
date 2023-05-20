@@ -10,7 +10,10 @@ class Voiture extends Vehicule {
 
     @Override
     public String toString() {
-        return null;
+        return "Voiture : Marque=" + getMarque()
+                + ", Modèle=" + getModele()
+                + ", Année=" + getAnnee()
+                + ", Nombre de portes=" + nombrePortes;
     }
 
     // Getter et setter

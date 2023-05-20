@@ -18,7 +18,7 @@ class ExempleExceptionsPersonnalisees {
     // Méthode pour effectuer une opération
     public void effectuerOperation() throws OperationNonAutoriseeException {
         // Condition de vérification pour l'opération
-        boolean condition = true;
+        boolean condition = false;
 
         if (!condition) {
             throw new OperationNonAutoriseeException("L'opération n'est pas autorisée.");

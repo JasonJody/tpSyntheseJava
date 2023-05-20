@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="TODO 7 v3 et 8">
+    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="TODO 9">
       <change afterPath="$PROJECT_DIR$/Enonce_TPS_H2023_V5.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperationNonAutoriseeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperationNonAutoriseeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExempleExceptionsPersonnalisees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExempleExceptionsPersonnalisees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Impot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Impot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voiture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Voiture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684601958038</updated>
-      <workItem from="1684601959154" duration="5378000" />
+      <workItem from="1684601959154" duration="6548000" />
     </task>
     <task id="LOCAL-00001" summary="Permière save">
       <created>1684602171885</created>
@@ -128,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684617341112</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TODO 9">
+      <created>1684617398784</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684617398784</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +158,7 @@
     <MESSAGE value="TODO 7" />
     <MESSAGE value="TODO 7 v2" />
     <MESSAGE value="TODO 7 v3 et 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="TODO 7 v3 et 8" />
+    <MESSAGE value="TODO 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="TODO 9" />
   </component>
 </project>

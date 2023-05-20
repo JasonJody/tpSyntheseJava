@@ -11,7 +11,7 @@ class  Chat extends Animal {
 
     @Override
     public void faireDuBruit() {
-        System.out.println("MIAOUU MIAOUU");
+        System.out.println("Miaouw.");
     }
 
     public boolean getInterieur() {
@@ -24,6 +24,6 @@ class  Chat extends Animal {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Chat [estInterieur=" + estInterieur + ", " + super.toString() + "]";
     }
 }

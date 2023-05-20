@@ -23,8 +23,10 @@ class Impot {
     //TODO 4
 
     public void afficher() {
-        System.out.printf("%s a un revenue de %f$ et un taux d'imposition de %f%%",
-                nomContribuable,revenuAnnuel,(tauxImposition*100));
+        System.out.println("Nom du contribuable: " + nomContribuable);
+        System.out.println("Revenu annuel: " + revenuAnnuel);
+        System.out.println("Taux d'imposition: " + tauxImposition);
+        System.out.println("Impôt à payer: " + calculerImpot());
     }
 
     public double calculerImpot() {

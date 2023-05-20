@@ -3,7 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         // TODO 1
-        /*
         try {
             Chien monChien = new Chien("Max", 3, "Labrador");
             System.out.println(monChien); // affiche "Chien [race=Labrador, Animal [nom=Max, age=3]]"
@@ -54,6 +53,6 @@ public class Main {
             System.out.println("Erreur : " + e.getMessage());
         }
         // TODO 10 Était fournie, donc rien à faire.
-        */
+
     }
 }
