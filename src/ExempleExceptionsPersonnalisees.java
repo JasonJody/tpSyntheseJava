@@ -6,7 +6,7 @@ class ExempleExceptionsPersonnalisees {
     //TODO 7
 
 
-    public void setValeur(int valeur) throws numberError {
+    public void setValeur(int valeur) throws ValeurHorsLimiteException {
         int max = 100;
         int min = 1;
         if (valeur <  min || valeur > max) {
