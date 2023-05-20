@@ -21,4 +21,31 @@ class Impot {
     }
 
     //TODO 4
+
+    public void afficher() {
+        System.out.printf("%s a un revenue de %f$ et un taux d'imposition de %f%%",
+                nomContribuable,revenuAnnuel,(tauxImposition*100));
+    }
+
+    public double calculerImpot() {
+        return revenuAnnuel * tauxImposition;
+    }
+
+    public void setTauxImposition(double tauxImposition) {
+        this.tauxImposition = tauxImposition;
+    }
+
+    public double getTauxImposition() {
+        return tauxImposition;
+    }
+
+    public void setRevenuAnnuel(double revenuAnnuel) {
+        this.revenuAnnuel = revenuAnnuel;
+    }
+
+    public double getRevenuAnnuel() {
+        return revenuAnnuel;
+    }
+
+
 }
