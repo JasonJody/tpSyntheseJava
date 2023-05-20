@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="TODO 5">
+    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="TODO 6">
       <change afterPath="$PROJECT_DIR$/Enonce_TPS_H2023_V5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Noeud.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExempleExceptionsPersonnalisees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExempleExceptionsPersonnalisees.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684601958038</updated>
-      <workItem from="1684601959154" duration="3223000" />
+      <workItem from="1684601959154" duration="4114000" />
     </task>
     <task id="LOCAL-00001" summary="Permière save">
       <created>1684602171885</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684614966808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TODO 6">
+      <created>1684615223170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684615223170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="TODO 3" />
     <MESSAGE value="TODO 4" />
     <MESSAGE value="TODO 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="TODO 5" />
+    <MESSAGE value="TODO 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="TODO 6" />
   </component>
 </project>

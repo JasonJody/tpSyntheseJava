@@ -6,6 +6,17 @@ class ExempleExceptionsPersonnalisees {
     //TODO 7
 
 
+    public void setValeur(int valeur) throws numberError {
+        int max = 100;
+        int min = 1;
+        if (valeur <  min) {
+            throw new numberError("Valeur trop petite");
+        } else if (valeur > max) {
+            throw new numberError("Valeur trop grande");
+        }
+        this.valeur = valeur;
+    }
+
     // Méthode pour effectuer une opération
     public void effectuerOperation() throws OperationNonAutoriseeException {
         // Condition de vérification pour l'opération
@@ -16,5 +27,16 @@ class ExempleExceptionsPersonnalisees {
         }
 
         // Logique de l'opération
+    }
+
+    public static class numberError extends Exception {
+        public numberError(String message) {
+            super(message);
+        }
+    }
+    public static class OperationNonAutoriseeException extends Exception {
+        public OperationNonAutoriseeException(String message) {
+            super(message);
+        }
     }
 }
