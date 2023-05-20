@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="TODO 1">
+    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="TODO 2">
       <change afterPath="$PROJECT_DIR$/Enonce_TPS_H2023_V5.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footballeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ville.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ville.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684601958038</updated>
-      <workItem from="1684601959154" duration="1993000" />
+      <workItem from="1684601959154" duration="2079000" />
     </task>
     <task id="LOCAL-00001" summary="Permière save">
       <created>1684602171885</created>
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684613926273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TODO 2">
+      <created>1684613971850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684613971850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +81,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Permière save" />
     <MESSAGE value="TODO 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="TODO 1" />
+    <MESSAGE value="TODO 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="TODO 2" />
   </component>
 </project>

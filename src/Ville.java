@@ -11,4 +11,13 @@ class Ville extends Pays {
     // Getter et setter
 
    //TODO 3
+
+
+    public void setNomVille(String nomVille) {
+        this.nomVille = nomVille;
+    }
+
+    public String getNomVille() {
+        return nomVille;
+    }
 }
