@@ -9,10 +9,8 @@ class ExempleExceptionsPersonnalisees {
     public void setValeur(int valeur) throws numberError {
         int max = 100;
         int min = 1;
-        if (valeur <  min) {
-            throw new numberError("Valeur trop petite");
-        } else if (valeur > max) {
-            throw new numberError("Valeur trop grande");
+        if (valeur <  min || valeur > max) {
+            throw new ValeurHorsLimiteException("Valeur hors limite (1-100)");
         }
         this.valeur = valeur;
     }
@@ -27,16 +25,5 @@ class ExempleExceptionsPersonnalisees {
         }
 
         // Logique de l'opération
-    }
-
-    public static class numberError extends Exception {
-        public numberError(String message) {
-            super(message);
-        }
-    }
-    public static class OperationNonAutoriseeException extends Exception {
-        public OperationNonAutoriseeException(String message) {
-            super(message);
-        }
     }
 }
