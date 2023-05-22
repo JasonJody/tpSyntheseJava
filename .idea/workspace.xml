@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="Modification Todo 1, 4, 5, 7 et activation Main">
+    <list default="true" id="92916f89-82c5-470d-b492-53bbd491c5e4" name="Changes" comment="JavaDoc sur toutes les classes">
       <change afterPath="$PROJECT_DIR$/Enonce_TPS_H2023_V5.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExempleExceptionsPersonnalisees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExempleExceptionsPersonnalisees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footballeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballeur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Impot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Impot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Joueur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vehicule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ville.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ville.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Voiture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Voiture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684601958038</updated>
-      <workItem from="1684601959154" duration="8242000" />
+      <workItem from="1684601959154" duration="8441000" />
     </task>
     <task id="LOCAL-00001" summary="Permière save">
       <created>1684602171885</created>
@@ -154,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684618669908</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="JavaDoc sur toutes les classes">
+      <created>1684620347041</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684620347041</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +168,7 @@
     <MESSAGE value="TODO 7 v3 et 8" />
     <MESSAGE value="TODO 9" />
     <MESSAGE value="Modification Todo 1, 4, 5, 7 et activation Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification Todo 1, 4, 5, 7 et activation Main" />
+    <MESSAGE value="JavaDoc sur toutes les classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaDoc sur toutes les classes" />
   </component>
 </project>
